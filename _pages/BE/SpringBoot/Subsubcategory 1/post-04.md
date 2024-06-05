@@ -1,22 +1,29 @@
 ---
 title: "Classic Literature #1: Romeo and Juliet"
 tags:
-    - book
-    - epic novel
-    - romance
+  - book
+  - epic novel
+  - romance
 date: "2023-12-04"
 thumbnail: "/assets/img/thumbnail/nightgardenflower.jpg"
+sitemap:
+  changefreq: daily
+  priority: 0.8
 ---
 
 # About the book
+
 ---
-* Author: [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare)
-* Country: England
-* Genre: `Shakespearean tragedy`
-* Publication date:	1597
+
+- Author: [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare)
+- Country: England
+- Genre: `Shakespearean tragedy`
+- Publication date: 1597
 
 # Synopsis
+
 ---
+
 The prologue of Romeo and Juliet calls the title characters “star-crossed lovers”—and the stars do seem to conspire against these young lovers.
 
 Romeo is a Montague, and Juliet a Capulet. Their families are enmeshed in a feud, but the moment they meet—when Romeo and his friends attend a party at Juliet’s house in disguise—the two fall in love and quickly decide that they want to be married.
