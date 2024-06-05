@@ -1,5 +1,5 @@
 title: union-class
-description: "Satellite - jekyll blog theme"
+description: "union-class's tech blog"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
@@ -21,7 +21,7 @@ google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
-baseurl: /myblog
+baseurl: /TheUNIONGraphix
 
 # Build settings
 plugins:
