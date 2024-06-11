@@ -45,10 +45,10 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: theuniongraphix
-repo: theuniongraphix.github.io
-branch: master
-relative_source: ../theuniongraphix.github.io/
-destination: ../theuniongraphix.github.io/
+repo:
+branch: main
+relative_source: ../
+destination: _site/
 production_url: https://theuniongraphix.github.io/
 source_url: https://github.com/theuniongraphix/theuniongraphix.github.io/
 

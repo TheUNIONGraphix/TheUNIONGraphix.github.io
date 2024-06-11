@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://theuniongraphix.github.io/sitemap.xml
