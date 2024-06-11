@@ -45,7 +45,7 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: theuniongraphix
-repo: theuniongraphix
+repo: theuniongraphix.github.io
 branch: master
 relative_source: ../theuniongraphix/
 destination: ../theuniongraphix/
