@@ -44,10 +44,10 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: theuniongraphix
-repo:
-branch: main
-relative_source: ../
+username: jekyllt
+repo: jasper
+branch: master
+relative_source: ../jasper/
 destination: _site/
 production_url: https://theuniongraphix.github.io/
 source_url: https://github.com/theuniongraphix/theuniongraphix.github.io/
